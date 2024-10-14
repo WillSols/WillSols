@@ -6,7 +6,7 @@ I’m a software developer with 5 years of experience in total, these being 3 ye
 
 🌱 Currently enhancing my expertise in Front-End with React.js and expanding my knowledge with C#, PHP and Python.
 
-📫 Feel free to reach out: guilhermegt8@hotmail.com.
+📫 Feel free to reach out: https://www.linkedin.com/in/torres-guillermo/
 
 <!---
 WillSols/WillSols is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
